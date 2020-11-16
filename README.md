@@ -40,3 +40,5 @@ CREATE TABLE IF NOT EXISTS `changbi` (
   PRIMARY KEY (`id`)
   
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+https://github.com/hantsy/spring-puzzles/tree/master/multi-r2dbc-connectionfactories/src/main/java/com/example/demo
